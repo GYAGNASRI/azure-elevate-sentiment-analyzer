@@ -1,0 +1,10 @@
+Project Title: AI-Powered Sentiment Analyzer using Hugging Face NLP API
+Program: Microsoft Azure Elevate Internship | Edunet Foundation & AICTE
+
+This project is an AI-powered text sentiment analysis system developed as part of the Microsoft Azure Elevate Internship Program by Edunet Foundation and AICTE.
+The system leverages state-of-the-art Natural Language Processing (NLP) models from Hugging Face to automatically classify any given text as Positive, Neutral, or Negative, while simultaneously detecting the underlying emotion such as Joy, Anger, Sadness, or Fear.
+The project is built using Python and runs on Kaggle Notebooks, a free cloud-based environment requiring no local setup.
+It integrates two powerful pre-trained models — the RoBERTa model for sentiment classification and the DistilRoBERTa model for emotion detection — both accessed through the Hugging Face free Inference API.
+The system processes user-provided text, sends it to the API, and returns detailed confidence scores for each sentiment class along with the dominant emotion detected.
+This project demonstrates practical knowledge of AI, cloud-based API integration, and real-world NLP applications — key skills in today's technology landscape. 
+It addresses the growing need for automated text analysis across industries such as customer service, social media monitoring, and brand management, where manual sentiment analysis is no longer scalable.
